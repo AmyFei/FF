@@ -1,0 +1,16 @@
+PODS:
+  - FF (0.1.0)
+
+DEPENDENCIES:
+  - FF (from `../`)
+
+EXTERNAL SOURCES:
+  FF:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FF: cab34ca789a29cb19374320a4482895fd18d7bad
+
+PODFILE CHECKSUM: a0c24ede6b996bb239fdf39e5657c986841a3fc3
+
+COCOAPODS: 1.8.3
